@@ -1,0 +1,2 @@
+Model,Live,Test,Train / Val,Remark
+model_20200211-115612.h5,,11.408333333333339,4.041108945202509,self stock price LSTM - 20N
